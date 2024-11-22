@@ -1,0 +1,8 @@
+parameters = {
+                'c': {'heel': {'threshold': 0.12, 'n_above': 1, 'n_below': 1, 'threshold2': 0.25, 'n_above2': 1},
+                      'toe': {'threshold': 0.15, 'n_above': 1, 'n_below': 1, 'threshold2': 0.25, 'n_above2': 1}},
+                's': {'heel': {'threshold': 0.12, 'n_above': 2, 'n_below': 2, 'threshold2': 0.25, 'n_above2': 2},
+                      'toe': {'threshold': 0.20, 'n_above': 2, 'n_below': 2, 'threshold2': 0.25, 'n_above2': 2}},
+                'f': {'heel': {'threshold': 0.12, 'n_above': 1, 'n_below': 1, 'threshold2': 0.25, 'n_above2': 1},
+                      'toe': {'threshold': 0.15, 'n_above': 1, 'n_below': 1, 'threshold2': 0.25, 'n_above2': 1}}
+            }
